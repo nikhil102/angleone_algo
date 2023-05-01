@@ -1,0 +1,41 @@
+7 Key point 
+1.Concept of Data reading option trading
+2.Open interest
+3.There are 3 type of data 
+4.Implied volatility in option buying 
+5.How & where to read the Data
+6.How to execute the Trades using Data
+7.Global Market impact trading
+
+M + R + S+ D = E
+-------------------------------------
+price-action
+fibbonacci 
+chart partterns 
+--------------------------------------
+concept of data reading
+concept of (Open interest) & Buildups
+action plan 
+-----------------------------------
+concept of proof मे  क्रेडिबिटी बहुत मॅटर करता है 
+concept of speculation
+
+nse paid data 
+nse option chain data 7-8 min delay 
+
+----------------------------------------
+open onterest case 1
+case 1 : when OI moves higher ,price also moves higher (this shows presence of Option BUYER)
+case 2 : when OI moves higher ,price also moves lower(this show the presence of option sellers)
+case 3 : when OI moves lower and price moves higher (short covering)
+case 4 : whem OI moves lower and price moves lower (Option buying Are exiting)
+
+theta dk
+time correction 
+implied volatility
+mass strategy
+    time correction 
+    mass - > price action - > price -> components 
+                                        - Expansions
+                                        - correction
+                                        - 
